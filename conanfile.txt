@@ -1,0 +1,11 @@
+[requires]
+glfw/3.3.2
+glew/2.1.0
+glm/0.9.9.5
+nlohmann_json/3.9.1
+stb/20200203
+spdlog/1.8.1
+fmt/7.1.2
+
+[generators]
+cmake

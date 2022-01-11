@@ -1,0 +1,24 @@
+{
+    "root-folder": "/home/julio/ucs/cg/trabalho3",
+    "vertex-shader": "phong.vert",
+    "fragment-shader": "phong.frag",
+    "objects": [
+        {
+            "model": "chao.csv",
+            "texture": "grass.jpg"
+        },
+        {
+            "model": "casinhatop.csv",
+            "texture": "house_texture.jpg"
+        },
+        {
+            "model": "arvoretop.csv",
+            "texture": "pedra-28.jpg"
+        }
+    ],
+    "sun": {
+        "model": "box.csv",
+        "vertex-shader": "sun.vert",
+        "fragment-shader": "sun.frag"
+    }
+}
